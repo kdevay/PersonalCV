@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.bc481ed4.css",
-    "main.js": "/react-gh-pages/static/js/main.e55f7e4b.js",
-    "static/media/signUp.png": "/react-gh-pages/static/media/signUp.2e6bdfd719ec18719b38.png",
-    "static/media/froot.png": "/react-gh-pages/static/media/froot.96543c149af31ca6e26e.png",
-    "static/media/dash.png": "/react-gh-pages/static/media/dash.03fe760299950469f4d9.png",
-    "static/media/sketch.png": "/react-gh-pages/static/media/sketch.a0f2c4e5fc228730e7b4.png",
-    "static/media/weather.png": "/react-gh-pages/static/media/weather.5c4dfac6c76dddd2655d.png",
-    "static/media/dOctocat.png": "/react-gh-pages/static/media/dOctocat.eaf9f2c94f89c43e2805.png",
-    "static/media/octocat.png": "/react-gh-pages/static/media/octocat.4f47538bcd45ee9fa758.png",
-    "static/media/dMail.png": "/react-gh-pages/static/media/dMail.758759cdb8bc0beba48e.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.bc481ed4.css.map": "/react-gh-pages/static/css/main.bc481ed4.css.map",
-    "main.e55f7e4b.js.map": "/react-gh-pages/static/js/main.e55f7e4b.js.map"
+    "main.css": "/personal-cv/static/css/main.bc481ed4.css",
+    "main.js": "/personal-cv/static/js/main.c9d6e9f4.js",
+    "static/media/signUp.png": "/personal-cv/static/media/signUp.2e6bdfd719ec18719b38.png",
+    "static/media/froot.png": "/personal-cv/static/media/froot.96543c149af31ca6e26e.png",
+    "static/media/dash.png": "/personal-cv/static/media/dash.03fe760299950469f4d9.png",
+    "static/media/sketch.png": "/personal-cv/static/media/sketch.a0f2c4e5fc228730e7b4.png",
+    "static/media/weather.png": "/personal-cv/static/media/weather.5c4dfac6c76dddd2655d.png",
+    "static/media/dOctocat.png": "/personal-cv/static/media/dOctocat.eaf9f2c94f89c43e2805.png",
+    "static/media/octocat.png": "/personal-cv/static/media/octocat.4f47538bcd45ee9fa758.png",
+    "static/media/dMail.png": "/personal-cv/static/media/dMail.758759cdb8bc0beba48e.png",
+    "index.html": "/personal-cv/index.html",
+    "main.bc481ed4.css.map": "/personal-cv/static/css/main.bc481ed4.css.map",
+    "main.c9d6e9f4.js.map": "/personal-cv/static/js/main.c9d6e9f4.js.map"
   },
   "entrypoints": [
     "static/css/main.bc481ed4.css",
-    "static/js/main.e55f7e4b.js"
+    "static/js/main.c9d6e9f4.js"
   ]
 }
