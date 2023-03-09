@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kdevay.github.io/personal-cv/static/css/main.75b93fd2.css",
-    "main.js": "/kdevay.github.io/personal-cv/static/js/main.f21c1251.js",
+    "main.css": "/kdevay.github.io/personal-cv/static/css/main.397f8384.css",
+    "main.js": "/kdevay.github.io/personal-cv/static/js/main.a6101d18.js",
     "static/media/signUp.png": "/kdevay.github.io/personal-cv/static/media/signUp.269451d571042afc9bc3.png",
     "static/media/froot.png": "/kdevay.github.io/personal-cv/static/media/froot.b3a33ef9e9e14b426b2d.png",
     "static/media/dash.png": "/kdevay.github.io/personal-cv/static/media/dash.cdc96bc8221da101a960.png",
@@ -16,11 +16,11 @@
     "static/media/odin.png": "/kdevay.github.io/personal-cv/static/media/odin.767df15bb224d07db482.png",
     "static/media/dMail.png": "/kdevay.github.io/personal-cv/static/media/dMail.758759cdb8bc0beba48e.png",
     "index.html": "/kdevay.github.io/personal-cv/index.html",
-    "main.75b93fd2.css.map": "/kdevay.github.io/personal-cv/static/css/main.75b93fd2.css.map",
-    "main.f21c1251.js.map": "/kdevay.github.io/personal-cv/static/js/main.f21c1251.js.map"
+    "main.397f8384.css.map": "/kdevay.github.io/personal-cv/static/css/main.397f8384.css.map",
+    "main.a6101d18.js.map": "/kdevay.github.io/personal-cv/static/js/main.a6101d18.js.map"
   },
   "entrypoints": [
-    "static/css/main.75b93fd2.css",
-    "static/js/main.f21c1251.js"
+    "static/css/main.397f8384.css",
+    "static/js/main.a6101d18.js"
   ]
 }
