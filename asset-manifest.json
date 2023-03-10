@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-cv/static/css/main.7ea763d3.css",
-    "main.js": "/personal-cv/static/js/main.59c5df5a.js",
+    "main.js": "/personal-cv/static/js/main.d4e82506.js",
     "static/media/signUp.png": "/personal-cv/static/media/signUp.269451d571042afc9bc3.png",
     "static/media/froot.png": "/personal-cv/static/media/froot.b3a33ef9e9e14b426b2d.png",
     "static/media/dash.png": "/personal-cv/static/media/dash.cdc96bc8221da101a960.png",
@@ -11,16 +11,15 @@
     "static/media/sketch.png": "/personal-cv/static/media/sketch.c02a6f9fd966ca6cdb61.png",
     "static/media/weather.png": "/personal-cv/static/media/weather.5c4dfac6c76dddd2655d.png",
     "static/media/dOctocat.png": "/personal-cv/static/media/dOctocat.eaf9f2c94f89c43e2805.png",
-    "static/media/octocat.png": "/personal-cv/static/media/octocat.4f47538bcd45ee9fa758.png",
     "static/media/odinD.png": "/personal-cv/static/media/odinD.66b69e3509a3a4c5e95d.png",
     "static/media/odin.png": "/personal-cv/static/media/odin.767df15bb224d07db482.png",
     "static/media/dMail.png": "/personal-cv/static/media/dMail.758759cdb8bc0beba48e.png",
     "index.html": "/personal-cv/index.html",
     "main.7ea763d3.css.map": "/personal-cv/static/css/main.7ea763d3.css.map",
-    "main.59c5df5a.js.map": "/personal-cv/static/js/main.59c5df5a.js.map"
+    "main.d4e82506.js.map": "/personal-cv/static/js/main.d4e82506.js.map"
   },
   "entrypoints": [
     "static/css/main.7ea763d3.css",
-    "static/js/main.59c5df5a.js"
+    "static/js/main.d4e82506.js"
   ]
 }
