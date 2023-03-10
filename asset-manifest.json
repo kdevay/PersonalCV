@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/personal-cv/static/css/main.b9d2982b.css",
-    "main.js": "/personal-cv/static/js/main.9793ef69.js",
-    "static/media/signUp.png": "/personal-cv/static/media/signUp.269451d571042afc9bc3.png",
-    "static/media/froot.png": "/personal-cv/static/media/froot.b3a33ef9e9e14b426b2d.png",
-    "static/media/dash.png": "/personal-cv/static/media/dash.cdc96bc8221da101a960.png",
-    "static/media/harvardD.png": "/personal-cv/static/media/harvardD.98f2cc63c01b65932424.png",
-    "static/media/harvard.png": "/personal-cv/static/media/harvard.a815db715cddecd0bb2c.png",
-    "static/media/prof.jpeg": "/personal-cv/static/media/prof.19d878d02d8241c6fc1f.jpeg",
-    "static/media/sketch.png": "/personal-cv/static/media/sketch.c02a6f9fd966ca6cdb61.png",
-    "static/media/weather.png": "/personal-cv/static/media/weather.5c4dfac6c76dddd2655d.png",
-    "static/media/dOctocat.png": "/personal-cv/static/media/dOctocat.eaf9f2c94f89c43e2805.png",
-    "static/media/odinD.png": "/personal-cv/static/media/odinD.66b69e3509a3a4c5e95d.png",
-    "static/media/odin.png": "/personal-cv/static/media/odin.767df15bb224d07db482.png",
-    "static/media/dMail.png": "/personal-cv/static/media/dMail.758759cdb8bc0beba48e.png",
-    "index.html": "/personal-cv/index.html",
-    "main.b9d2982b.css.map": "/personal-cv/static/css/main.b9d2982b.css.map",
-    "main.9793ef69.js.map": "/personal-cv/static/js/main.9793ef69.js.map"
+    "main.css": "/static/css/main.b9d2982b.css",
+    "main.js": "/static/js/main.fcc350ba.js",
+    "static/media/signUp.png": "/static/media/signUp.269451d571042afc9bc3.png",
+    "static/media/froot.png": "/static/media/froot.b3a33ef9e9e14b426b2d.png",
+    "static/media/dash.png": "/static/media/dash.cdc96bc8221da101a960.png",
+    "static/media/harvardD.png": "/static/media/harvardD.98f2cc63c01b65932424.png",
+    "static/media/harvard.png": "/static/media/harvard.a815db715cddecd0bb2c.png",
+    "static/media/prof.jpeg": "/static/media/prof.19d878d02d8241c6fc1f.jpeg",
+    "static/media/sketch.png": "/static/media/sketch.c02a6f9fd966ca6cdb61.png",
+    "static/media/weather.png": "/static/media/weather.5c4dfac6c76dddd2655d.png",
+    "static/media/dOctocat.png": "/static/media/dOctocat.eaf9f2c94f89c43e2805.png",
+    "static/media/odinD.png": "/static/media/odinD.66b69e3509a3a4c5e95d.png",
+    "static/media/odin.png": "/static/media/odin.767df15bb224d07db482.png",
+    "static/media/dMail.png": "/static/media/dMail.758759cdb8bc0beba48e.png",
+    "index.html": "/index.html",
+    "main.b9d2982b.css.map": "/static/css/main.b9d2982b.css.map",
+    "main.fcc350ba.js.map": "/static/js/main.fcc350ba.js.map"
   },
   "entrypoints": [
     "static/css/main.b9d2982b.css",
-    "static/js/main.9793ef69.js"
+    "static/js/main.fcc350ba.js"
   ]
 }
